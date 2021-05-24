@@ -14,7 +14,7 @@ public Person() {
 
     }
 
-    public void Addinfo(String owner, Contact contact) {
+    public void addInfo(String owner, Contact contact) {
         this.owner = owner;
         this.contact = contact;
         int newIndex = lastIndex + 1;
