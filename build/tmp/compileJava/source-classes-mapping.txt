@@ -1,7 +1,7 @@
-de/htwberlin/Address.java
- de.htwberlin.Address
 de/htwberlin/Contact.java
  de.htwberlin.Contact
+de/htwberlin/Address.java
+ de.htwberlin.Address
 de/htwberlin/ContactBook.java
  de.htwberlin.ContactBook
 de/htwberlin/Person.java
