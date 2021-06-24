@@ -1,0 +1,10 @@
+de/htwberlin/Contact.java
+ de.htwberlin.Contact
+de/htwberlin/Address.java
+ de.htwberlin.Address
+de/htwberlin/ContactBook.java
+ de.htwberlin.ContactBook
+de/htwberlin/Person.java
+ de.htwberlin.Person
+de/htwberlin/App.java
+ de.htwberlin.App
